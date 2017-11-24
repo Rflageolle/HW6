@@ -1,0 +1,59 @@
+INTEGER TEST
+
+  /** TEST ONE: SIZE = 10, BIG = 100 **/
+
+    Test One: 
+     - Merge Time: 458717 nanoseconds
+     - Java Time: 343441 nanoseconds
+
+  /** TEST TWO: SIZE = 20, BIG = 2500 **/
+
+    Test Two: 
+     - Merge Time: 34381 nanoseconds
+     - Java Time: 32512 nanoseconds
+
+  /** TEST THREE: SIZE = 150, BIG = 5000 **/
+
+    Test Three: 
+     - Merge Time: 408968 nanoseconds
+     - Java Time: 195371 nanoseconds
+
+DOUBLE TEST
+
+  /** TEST ONE: SIZE = 10.0, BIG = 100.0 **/
+
+    Test One: 
+     - Merge Time: 21383 nanoseconds
+     - Java Time: 9922 nanoseconds
+
+  /** TEST TWO: SIZE = 20.0, BIG = 2500.0 **/
+
+    Test Two: 
+     - Merge Time: 39436 nanoseconds
+     - Java Time: 26435 nanoseconds
+
+  /** TEST THREE: SIZE = 150.0, BIG = 5000.0 **/
+
+    Test Three: 
+     - Merge Time: 430013 nanoseconds
+     - Java Time: 221197 nanoseconds
+
+STRING TEST
+
+  /** TEST ONE: SIZE = 10 **/
+
+    Test One: 
+     - Merge Time: 24277 nanoseconds
+     - Java Time: 11760 nanoseconds
+
+  /** TEST TWO: SIZE = 20 **/
+
+    Test Two: 
+     - Merge Time: 37181 nanoseconds
+     - Java Time: 24248 nanoseconds
+
+  /** TEST THREE: SIZE = 150 **/
+
+    Test Three: 
+     - Merge Time: 327929 nanoseconds
+     - Java Time: 232310 nanoseconds
